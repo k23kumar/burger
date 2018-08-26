@@ -1,1 +1,1 @@
-# burger
+This webiste uses express and mysyql to store and display data. Users can input a burger, populate it to the 'devour' list and can also press the 'devour button' to symbolically eat burgers.This app utilizes 'orm' and 'controllers' to interact with the mysql database, using 'get' and 'post' requests to either create, or update. Handlebars are also used as a template to add to html elements. Changes made on the front end will reflect changes in the database, or backend. 
